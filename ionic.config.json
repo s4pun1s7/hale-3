@@ -1,0 +1,8 @@
+{
+  "name": "HALE3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2ca19466"
+}
